@@ -4,3 +4,7 @@
 .top-6 {
   top: 6px;
 }
+.cars-container > div:hover .card-title {
+  background-color: red;
+  color: #fff;
+}
