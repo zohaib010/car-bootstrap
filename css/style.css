@@ -8,3 +8,27 @@
   background-color: red;
   color: #fff;
 }
+.back-container {
+  background-image: url(../images/footer.70e73671.png);
+  background-size: cover;
+  margin-top: 100px;
+}
+.list-con {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  line-height: 2;
+}
+.zo-bot {
+  align-items: center;
+  border: 1px solid goldenrod;
+  border-radius: 20px;
+  height: 85px;
+  padding: 12px 11px;
+  width: 100%;
+}
+.zo-boto {
+  border: 1px solid brown;
+  border-radius: 50%;
+  height: 24px;
+  min-height: 24px;
+  width: 24px;
+}
