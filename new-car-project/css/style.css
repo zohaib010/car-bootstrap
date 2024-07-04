@@ -1,0 +1,21 @@
+.btn-flyout {
+  background-color: #e2e42b !important;
+  border: none;
+  border-top-left-radius: 24px;
+  border-top-right-radius: 24px;
+  color: #1a1919;
+  cursor: pointer;
+  display: flex;
+  font-size: 20px;
+  font-weight: 800;
+  left: -116px;
+  letter-spacing: 0;
+  line-height: 27px;
+  padding: 10px 16px;
+  position: fixed;
+  text-align: left;
+  top: 87%;
+  transform: translateY(-170%) rotate(90deg) translateX(-7%);
+  word-spacing: 0.2rem;
+  z-index: 9999;
+}
