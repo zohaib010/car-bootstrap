@@ -28,6 +28,9 @@
   background-color: yellow;
   color: antiquewhite;
 }
+.car-hover {
+  width: 1385px;
+}
 .car-bd {
   border: 1px solid gray;
   border-top-left-radius: 20px;
