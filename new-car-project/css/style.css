@@ -19,3 +19,19 @@
   word-spacing: 0.2rem;
   z-index: 9999;
 }
+
+.back-container {
+  background-image: url(../images/footer.70e73671.png);
+  background-size: cover;
+}
+.car-hover > div:hover .card-title {
+  background-color: yellow;
+  color: antiquewhite;
+}
+.car-bd {
+  border: 1px solid gray;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+}
