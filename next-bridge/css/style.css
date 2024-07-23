@@ -1,0 +1,83 @@
+.nav-zoh {
+  min-height: 81px;
+}
+.card-img {
+  max-width: 1600px;
+}
+.wr-std {
+  color: var(--e-global-color-text);
+  font-family: "Poppins", Sans-serif;
+  font-size: 60px;
+  font-weight: 600;
+  line-height: 72px;
+}
+.bot-gty {
+  font-family: "Poppins", Sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  background-color: #00000000;
+  border-style: solid;
+  border-width: 1px 1px 1px 1px;
+  border-radius: 5px 5px 5px 5px;
+  padding: 12px 51px 12px 51px;
+}
+.lhr-bd {
+  border-style: solid;
+  border-width: 0px 3px 0px 0px;
+}
+.head-tt {
+  olor: #2d2d2d;
+  font-family: "Poppins", Sans-serif;
+  font-size: 30px;
+  font-weight: 600;
+}
+.bak-container {
+  background-image: url(../images/homepage-cover.png);
+  background-size: cover;
+  width: 100%;
+  min-height: 626px;
+  background-position: top center;
+}
+.gju-yt {
+  padding-top: 325px;
+}
+.hty-2 {
+  color: var(--e-global-color-text);
+  font-family: "Poppins", Sans-serif;
+  font-size: 60px;
+  font-weight: 600;
+  line-height: 72px;
+}
+.nj-kj {
+  background-color: #ffffff;
+  padding: 25px 0px 0px 0px;
+  border-radius: 20px 20px 20px 20px;
+  width: 320px;
+}
+.wtg-2 {
+  width: 357px;
+}
+.aik-container {
+  background-image: url(../images/counter-background.png);
+  background-size: cover;
+  width: 80%;
+  height: 350px;
+}
+.box {
+  position: relative;
+  overflow: hidden;
+}
+.cotti-1 {
+  color: #ffffff;
+  background-color: gray;
+  top: 0%;
+  left: -100%;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  padding: 50px;
+}
+.box:hover .cotti-1 {
+  left: 0;
+  transition-timing-function: linear;
+}
